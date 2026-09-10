@@ -38,6 +38,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
