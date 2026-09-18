@@ -62,6 +62,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -107,4 +108,8 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2928-distribute-candies-among-children-i/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
