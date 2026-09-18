@@ -23,6 +23,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0242-valid-anagram](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3941-password-strength](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3941-password-strength/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3941-password-strength](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3941-password-strength/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
