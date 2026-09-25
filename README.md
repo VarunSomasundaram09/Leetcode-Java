@@ -102,6 +102,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0050-powx-n/) | Medium |
+| [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 ## Recursion
@@ -124,4 +125,24 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
