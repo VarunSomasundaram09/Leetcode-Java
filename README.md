@@ -14,6 +14,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
@@ -23,6 +24,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2942-find-words-containing-character/) | Easy |
