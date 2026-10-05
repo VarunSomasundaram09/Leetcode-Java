@@ -120,6 +120,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1837-sum-of-digits-in-base-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 ## Recursion
@@ -129,6 +130,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [2928-distribute-candies-among-children-i](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -174,4 +176,8 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 <!---LeetCode Topics End-->
