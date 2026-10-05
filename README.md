@@ -17,6 +17,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2942-find-words-containing-character/) | Easy |
@@ -98,6 +100,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
