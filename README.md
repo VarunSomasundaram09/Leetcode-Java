@@ -31,6 +31,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1816-truncate-sentence](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -80,6 +81,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1816-truncate-sentence](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
