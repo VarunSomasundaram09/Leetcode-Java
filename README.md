@@ -75,6 +75,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0001-two-sum](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -113,6 +114,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
