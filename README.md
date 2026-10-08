@@ -29,6 +29,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0242-valid-anagram](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1816-truncate-sentence/) | Easy |
@@ -175,11 +176,13 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
