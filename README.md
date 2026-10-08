@@ -74,6 +74,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -92,6 +93,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
