@@ -90,6 +90,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -148,6 +149,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
