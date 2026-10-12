@@ -67,6 +67,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1748-sum-of-unique-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3941-password-strength](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3941-password-strength/) | Medium |
 ## Sliding Window
@@ -90,6 +91,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -214,4 +216,8 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0202-happy-number/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1748-sum-of-unique-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1748-sum-of-unique-elements/) | Easy |
 <!---LeetCode Topics End-->
