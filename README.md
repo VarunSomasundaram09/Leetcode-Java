@@ -88,6 +88,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0560-subarray-sum-equals-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1816-truncate-sentence/) | Easy |
@@ -104,6 +105,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0033-search-in-rotated-sorted-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
