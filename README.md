@@ -63,6 +63,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0202-happy-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -83,6 +84,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0048-rotate-image](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -106,6 +108,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -118,6 +121,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -142,6 +146,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0050-powx-n](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
@@ -193,6 +198,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
