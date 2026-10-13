@@ -100,6 +100,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
