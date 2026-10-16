@@ -87,6 +87,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0724-find-pivot-index/) | Easy |
@@ -126,6 +127,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
