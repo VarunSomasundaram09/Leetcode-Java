@@ -31,6 +31,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0520-detect-capital](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0520-detect-capital/) | Easy |
+| [0796-rotate-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -44,6 +45,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0796-rotate-string/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
