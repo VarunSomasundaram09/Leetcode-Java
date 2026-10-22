@@ -159,6 +159,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+| [1753-maximum-score-from-removing-stones](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1837-sum-of-digits-in-base-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 ## Recursion
@@ -184,6 +185,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -232,6 +234,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1753-maximum-score-from-removing-stones](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
