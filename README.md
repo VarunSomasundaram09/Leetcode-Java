@@ -16,6 +16,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0151-reverse-words-in-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0202-happy-number/) | Easy |
+| [0344-reverse-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -28,6 +29,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0520-detect-capital](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0520-detect-capital/) | Easy |
