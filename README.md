@@ -36,6 +36,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0796-rotate-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -219,6 +220,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
