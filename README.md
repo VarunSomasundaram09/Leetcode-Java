@@ -32,6 +32,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0344-reverse-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -149,6 +150,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0412-fizz-buzz/) | Easy |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
 ## Math
@@ -160,6 +162,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0202-happy-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
+| [0412-fizz-buzz](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0412-fizz-buzz/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
