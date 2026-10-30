@@ -167,6 +167,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1837-sum-of-digits-in-base-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
+| [2235-add-two-integers](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2235-add-two-integers/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
