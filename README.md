@@ -34,6 +34,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0409-longest-palindrome](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0520-detect-capital/) | Easy |
+| [0709-to-lower-case](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
