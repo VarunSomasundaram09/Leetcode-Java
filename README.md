@@ -96,6 +96,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0027-remove-element](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0048-rotate-image/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
@@ -243,6 +244,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
