@@ -163,6 +163,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
@@ -241,6 +242,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0070-climbing-stairs/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -261,4 +263,8 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0014-longest-common-prefix/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
