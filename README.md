@@ -104,6 +104,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
@@ -171,6 +172,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1641-count-sorted-vowel-strings](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
