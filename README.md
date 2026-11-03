@@ -121,6 +121,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [3683-earliest-time-to-finish-one-task](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [2235-add-two-integers](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2235-add-two-integers/) | Easy |
 | [2652-sum-multiples](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2652-sum-multiples/) | Easy |
 | [2928-distribute-candies-among-children-i](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2928-distribute-candies-among-children-i/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
