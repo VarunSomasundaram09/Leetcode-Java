@@ -73,6 +73,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0003-longest-substring-without-repeating-characters](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -87,6 +88,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
