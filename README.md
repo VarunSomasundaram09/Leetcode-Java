@@ -35,6 +35,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0412-fizz-buzz/) | Easy |
+| [0500-keyboard-row](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0500-keyboard-row/) | Easy |
 | [0520-detect-capital](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0796-rotate-string/) | Easy |
@@ -80,6 +81,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0500-keyboard-row](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -109,6 +111,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0442-find-all-duplicates-in-an-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0500-keyboard-row](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
