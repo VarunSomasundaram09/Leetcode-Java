@@ -21,6 +21,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0345-reverse-vowels-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -39,6 +40,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0520-detect-capital](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0520-detect-capital/) | Easy |
 | [0709-to-lower-case](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0796-rotate-string/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -114,6 +116,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0500-keyboard-row](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0724-find-pivot-index/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
