@@ -41,6 +41,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0709-to-lower-case](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0824-goat-latin](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0824-goat-latin/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
