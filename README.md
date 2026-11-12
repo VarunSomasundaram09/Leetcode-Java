@@ -130,6 +130,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [2778-sum-of-squares-of-special-elements](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
