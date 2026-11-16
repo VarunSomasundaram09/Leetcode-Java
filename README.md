@@ -50,6 +50,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [1768-merge-strings-alternately](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3941-password-strength](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3941-password-strength/) | Medium |
@@ -175,6 +176,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0412-fizz-buzz/) | Easy |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2974-minimum-number-game](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/2974-minimum-number-game/) | Easy |
 ## Math
 | Problem Name | Difficulty |
