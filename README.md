@@ -23,6 +23,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0350-intersection-of-two-arrays-ii](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0942-di-string-match](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0942-di-string-match/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0821-shortest-distance-to-a-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0824-goat-latin](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0824-goat-latin/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0942-di-string-match](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1544-make-the-string-great/) | Easy |
@@ -122,6 +124,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | [0821-shortest-distance-to-a-character](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0942-di-string-match](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0942-di-string-match/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -276,6 +279,7 @@ I created this repository to improve my **problem-solving skills, Data Structure
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0409-longest-palindrome/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0942-di-string-match](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/0942-di-string-match/) | Easy |
 | [1753-maximum-score-from-removing-stones](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VarunSomasundaram09/Leetcode-Java/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Floyd's Cycle Finding Algorithm
